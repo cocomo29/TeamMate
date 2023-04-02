@@ -3,7 +3,7 @@
 
 <div align="center"></div>
 
-<p align="center">Save time and effort by automating the process of manually adding members to a Microsoft Teams.</p>
+<p align="center">Save time and effort by automating the process of manually adding members to Microsoft Teams.</p>
 <p align="center" > 
     <a href="" target="_blank"> <img src="https://i.imgur.com/IFuls1z.gif"/> </a>
 <p/>
