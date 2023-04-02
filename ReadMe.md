@@ -34,7 +34,7 @@ Follow the steps below to install the script.
     - **DATA** : The path to the csv file containing the members you want to add to the team. e.g: `C:\Users\name\Downloads\members.csv`
 4. Run the script. `python driver.py`
 
-he script will launch the Chrome browser and log in to your Microsoft Teams account. It will then create a new team with the name you specified and add the members from the CSV file to the team.
+Script will launch the Chrome browser and log in to your Microsoft Teams account. It will then create a new team with the name you specified and add the members from the CSV file to the team.
 
 If the script is unable to find a roll number that is in the CSV file, it will print the roll number in the console and create a file called notfound.txt in the same directory as the script. You can then manually add those members to the team.
 
