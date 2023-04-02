@@ -18,7 +18,7 @@ To run this script, you need to have the following installed on your computer.
 - Chrome browser. You can download it from [here](https://www.google.com/chrome/).
 - Chrome driver. You can download it from [here](https://chromedriver.chromium.org/downloads).
 
-**Note:** you'll need to download the version of the Chrome driver that matches your Chrome browser version. You can check your Chrome browser's version by typing `chrome://version/` in the address or by clickng [here](chrome://version/). ⚠️ 
+**Note:** you'll need to download the version of the Chrome driver that matches your Chrome browser version. You can check your Chrome browser's version by typing `chrome://version/` in the address bar. ⚠️ 
 
 # Installation
 Follow the steps below to install the script.
