@@ -38,9 +38,13 @@ he script will launch the Chrome browser and log in to your Microsoft Teams acco
 
 If the script is unable to find a roll number that is in the CSV file, it will print the roll number in the console and create a file called notfound.txt in the same directory as the script. You can then manually add those members to the team.
 
-| **notfound.txt**                                            | **terminal**                                            |
-|:-----------------------------------------------------------:|:-------------------------------------------------------:|
-| ![notfound.txt screenshot](https://i.imgur.com/e9NZcZ5.png) | ![terminal screenshot](https://i.imgur.com/H9IhfmW.png) |
+<div align="center">
+
+| **notfound.txt** | **terminal** |
+|:---:|:---:|
+| <img src="https://i.imgur.com/e9NZcZ5.png"> | <img src="https://i.imgur.com/H9IhfmW.png"> |
+
+</div>
 
 
 ## CSV file format 
